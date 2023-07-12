@@ -1,9 +1,8 @@
-
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="50%" height="45%" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlB9CBI5B3j-AS90VzWMVe_6pneao0qUrpA&usqp=CAU" />
-  </a>
+   <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -25,3 +24,4 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
