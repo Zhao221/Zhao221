@@ -1,8 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="45%" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlB9CBI5B3j-AS90VzWMVe_6pneao0qUrpA&usqp=CAU" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -14,13 +12,13 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
