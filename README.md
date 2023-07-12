@@ -1,6 +1,8 @@
+
+
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="45%" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlB9CBI5B3j-AS90VzWMVe_6pneao0qUrpA&usqp=CAU" />
+    <img width="50%" height="45%" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlB9CBI5B3j-AS90VzWMVe_6pneao0qUrpA&usqp=CAU" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -22,3 +24,4 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
